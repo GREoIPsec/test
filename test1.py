@@ -1,2 +1,2 @@
 print("asd")
-print("asd2")
+print("a2")
